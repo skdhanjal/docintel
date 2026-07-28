@@ -1,0 +1,452 @@
+[
+  {
+    "question": "What was the amount of criticized exposure in Real Estate as of December 31, 2025, and how did it change from the previous year?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0466"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What is the total noninterest revenue for Total Markets in 2024?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0272"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the credit exposure and nonaccrual loans for residential real estate in 2025 compared to 2024?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0415"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the potential consequences of failing to maintain the privacy or security of information related to the company and its stakeholders?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0063"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What factors may lead Chevron to change or eliminate its lower carbon-related ambitions?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0103"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the projected upstream and downstream totals for the U.S. and international segments in 2025?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0175"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the primary drivers of comparable sales growth for Sam's Club U.S. in fiscal years 2026 and 2025?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0115"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the components and revenue recognition criteria for investment banking fees as described in the passage?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0915"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What is the total income tax expense for Chevron Corporation's operating segments?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0311"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the eCommerce sales figures for Sam's Club U.S. for fiscal years 2024, 2025, and 2026?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0310"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the net income figures for NVIDIA Corporation for the years ended January 25, 2026, January 26, 2025, and January 28, 2024?",
+    "relevant_chunk_ids": [
+      "NVDA_10-K_c0192"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the total net charge-offs for credit cards in 2025 compared to 2024?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0497"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the benefit obligations for U.S. and International employee benefit plans as of December 31, 2025?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0383"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the total criticized exposure for the Firm as of December 31, 2025, and how does it compare to the previous year?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0447"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the income tax expenses and their percentages of income before income tax expense for the years 2023, 2024, and 2025?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c1248"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What factors could adversely impact the financial results of the company according to the passage?",
+    "relevant_chunk_ids": [
+      "NVDA_10-K_c0045"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the recorded charges related to employer contributions to global defined contribution plans for the years 2023, 2024, and 2025?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0506"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "How are alliance revenues recognized in co-commercialization agreements according to the passage?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0303"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the average balances and interest rates for demand and time deposits from 2023 to 2025?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0386"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What is the company's stance on the Rozel jury verdict and its potential financial implications?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0340"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the total accrued and other current liabilities for NVIDIA Corporation as of January 25, 2026, and January 26, 2025?",
+    "relevant_chunk_ids": [
+      "NVDA_10-K_c0261"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the expected total net cost savings from the Realigning Our Cost Base Program by the end of 2026?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0199"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the key risks associated with the company's R&D activities and clinical trials?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0024"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the total fair values and their respective levels in the fair value hierarchy for assets and liabilities?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0678"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the net cash provided by operating activities for JPMorgan Chase & Co. in 2023?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0636"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What proportion of the Firm's Alt-A loans involve borrowers who do not provide complete documentation of their assets or income?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c1417"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "How could failing to meet market expectations for financial performance impact the stock price and volatility?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0070"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the global investment banking fees market share in 2023?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0269"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What key components are included in the organization's cybersecurity program?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0093"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the total property acquisition costs incurred in the Americas?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0432"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "How does the company account for gift card sales and unredeemed balances in its financial statements?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0232"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the implications of stakeholder divestment from fossil fuel equities on companies in the oil and gas sector?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0102"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What factors contributed to the changes in period-end deposits as of December 31, 2024?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0380"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the right-of-use assets for operating leases at December 31, 2025?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0278"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was Chevron U.S.A. Inc.'s total debt for the years ended December 31 for 2023, 2024, and 2025?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0285"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the dates and types of indentures incorporated by reference in the passage?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0629"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the total fair value of the consideration transferred in the acquisition of Seagen?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0322"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the change in unrealized gains/losses related to financial instruments held at December 31, 2025?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0719"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What methodologies and assumptions does the Firm use in determining fair value, and how might different methodologies affect this estimate?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0602"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What information is referenced in Item 14 regarding principal accounting fees and services?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0324"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the stock performance of JPMorganChase from 2020 to 2025?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0164"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the short-term borrowings and weighted-average interest rates for the Company as of January 31, 2026 and 2025?",
+    "relevant_chunk_ids": [
+      "WMT_10-K_c0254"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the gains or losses recognized in Other Comprehensive Income (OCI) for interest rate contracts in the year ended December 31, 2024?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0436"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What legal actions have been taken against Pfizer regarding Zantac, and what are the main allegations in these lawsuits?",
+    "relevant_chunk_ids": [
+      "PFE_10-K_c0555"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What was the total equity reported for the Hess Corporation acquisition?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0248"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the net income figures for JPMorgan Chase & Co. for the years 2023, 2024, and 2025?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0633"
+    ],
+    "archetype": "table-lookup",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What are the key upstream activities Chevron is focusing on for 2025, and how do they relate to proved reserves recognition?",
+    "relevant_chunk_ids": [
+      "CVX_10-K_c0052"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the financial impacts of adopting the proportional amortization method for tax-oriented investments on January 1, 2024?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0654"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "How does the Firm determine the attribution of exposure to an individual country in its country risk management approach?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0550"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  },
+  {
+    "question": "What were the total provisions for credit losses in 2025, and how were they allocated between consumer and wholesale categories?",
+    "relevant_chunk_ids": [
+      "JPM_10-K_c0188"
+    ],
+    "archetype": "factual",
+    "source": "synthetic",
+    "reviewed": true
+  }
+]

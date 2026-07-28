@@ -1,6 +1,6 @@
 from sentence_transformers import CrossEncoder
 
-MODEL_NAME = "BAAI/bge-reranker-base"
+MODEL_NAME = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 
 # Loaded once per process and reused — a CrossEncoder load is
 # expensive (model weights), scoring a batch of pairs is cheap.
